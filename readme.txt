@@ -1,47 +1,40 @@
-Bootstrap/HTML5 Responsive Template
+Smart Interior Design
 
-Smart Interior Designs HTML5 Bootstrap Web Template is an clean and flat modern HTML5 Bootstrap template. This template created specifically to fill the gap in interior design and decoration services  Its a one page html5 template for multipurose use built with valid HTML5 & CSS3. This template is based on latest Bootstrap framework 3.3.1 fully responsive web compatible with multi browser and devices. This template can be used for multi-purpose.
-
-Key features
--------------
-Twitter Bootstrap 3.3.1
-Clean & Developer-friendly HTML5 and CSS3 code
-100% Responsive Layout Design
-One Page
-Multipurpose theme
-Google Fonts Support
-Font Awesome 
-Smooth Scrolling 
-Fully Customizable
-Contact Form
-  
-
-Credits :
--------
-=> Design and developed: "WebThemez"  http://webthemez.com
-=> Photos used in template: **Unsplash** - http://unsplash.com
-=> For more free web themes: http://webthemez.com
-=> Framework : http://getbootstrap.com
-=> images http://www.houzz.com/
-
-Important Note:
----------------
-To remove backlink from the template, you need to donate to remove the backlink from the template.
-Any question contact us: webthemez@gmail.com
+Smart Interior Design is an innovative approach to designing spaces that combines aesthetics, functionality, and modern technology. It integrates advanced tools and smart devices to create environments that are not only visually appealing but also intelligent, efficient, and adaptable to users' needs.
 
 
-License :
--------
-**Creative Commons Attribution 3.0** - http://creativecommons.org/licenses/by/3.0/
+Project Details
 
-- You are allowed to use all files for both personal and commercial projects.
+Project Demo URL: https://befashion1.z23.web.core.windows.net/
 
-- If you use/modify the resources in your projects,we’d appreciate a linkback to this site.
+Demo Video URL: https://youtu.be/Sz30hnZ7t0k?si=5flwmI74sRkAyxGf
 
-- You do not have rights to redistribute,resell or offer files from this site to any third party
+GitHub Repository URL: https://github.com/Gayathri0103/beauty-fashion
 
-- If you wish to remove backlink from the template, you need to donate min USD $10 to remove backlink (credits) form the template
+Industry: lifestyle-Smart Interior Design
 
-- If you have any question,feel free to contact us at webthemez@gmail.com
+GURRALA Venkatesh (project management) :Manages the web development project.
 
-- All images user here is for demo purpose only, we are not responsible for any copyrights.
+Harshitha (Deployment) :Deployment and maintenance of project infrastructure.
+
+Palepu Balu (Documentation) :Responsible for managing the documentation process.
+
+Thani Ashritha (Presentation) :Responsible for managing the Presentation process.
+
+Azure services used:
+
+Azure App Service Plan
+
+Azure App Service
+
+
+
+Project Description:
+
+Smart Interior Design combines traditional interior design with modern technology to create intelligent, adaptable, and efficient spaces. It focuses on enhancing functionality, comfort, and aesthetics while integrating smart devices and sustainable practices into living or work environments.
+Key features of Smart Interior Design include automation through Internet of Things (IoT) devices such as smart lighting, thermostats, and voice-controlled systems. These technologies allow spaces to adapt to users' needs and preferences, improving convenience and energy efficiency. Space optimization plays a crucial role, using tools like augmented reality (AR) and 3D modeling to design layouts that maximize utility and visual appeal.
+Sustainability is another core aspect, with an emphasis on eco-friendly materials, energy-efficient appliances, and designs that reduce environmental impact. Customization is prioritized, tailoring spaces based on user preferences to create highly personalized environments that cater to individual lifestyles.
+
+Core Azure Services: An Azure App Service Plan defines the infrastructure and pricing tier for hosting your apps in Azure. It determines the compute resources allocated for running your applications, such as CPU, memory, and storage. Multiple apps can share the same plan, optimizing resource usage. Plans are customizable and scale easily based on performance needs.
+
+Azure App Service is a fully managed platform for building, deploying, and scaling web apps, RESTful APIs, and mobile backends. It supports multiple programming languages, including .NET, Java, Python, Node.js, and more. App Service integrates with DevOps tools and provides built-in features like high availability, auto-scaling, and security compliance.
