@@ -7,9 +7,9 @@ Project Details
 
 Project Demo URL: https://befashion1.z23.web.core.windows.net/
 
-Demo Video URL: https://youtube.com/watch?v=Rim1VuffpKo&feature=shared
+Demo Video URL:   https://youtube.com/watch?v=Rim1VuffpKo&feature=shared 
 
-GitHub Repository URL: https://github.com/GVenkatesh112/Interior-Design.git
+GitHub Repository URL:  https://github.com/GVenkatesh112/Interior-Design.git 
 
 Industry: lifestyle-Smart Interior Design
 
